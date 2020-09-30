@@ -9,3 +9,4 @@ El repo contiene:
 * QMK Toolbox
 
 ![3D Keyboard](3D/KeyboardSetup03.png)
+![3D Keyboard](3D/KeyboardSetup03-switch.png)
