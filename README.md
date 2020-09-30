@@ -1,10 +1,10 @@
 # design-pad
 
-Este repo consiste en generar un _pad_ preparado con atajos utiles o no tan utiles en mi día a día a la hora de diseñar / trabajar.
+Este repo consiste en generar un _pad_ preparado con atajos útiles y no tan útiles en mi día a día a la hora de diseñar / trabajar por el simplemente hecho de experimentar con otras cosas.
 
 El repo contiene:
 * Los archivos de configuración de QMK de mi pad
-* Comandos shell que disparan las teclas
+* Comandos shell que disparan las teclas a través de Karabiner
 * Modelo 3D que generé para diseñar mi pad.
 * QMK Toolbox
 
