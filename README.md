@@ -8,4 +8,4 @@ El repo contiene:
 * Modelo 3D que generé para diseñar mi pad.
 * QMK Toolbox
 
-![3D Keyboard](3D/KeyboardSetup02.png)
+![3D Keyboard](3D/KeyboardSetup03.png)
